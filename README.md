@@ -1,2 +1,1 @@
-# hello_word
-test_project
+wdr
